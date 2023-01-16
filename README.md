@@ -1,5 +1,4 @@
-# Set Family Parameters
-
+# Pressure Drop Calculator
 This project allows the user to select pipes inside of Revit and export them to an Excel spreadsheet. Then, an AutoHotkey script can be used to calculate the friction loss and head loss using System Syzer.
 
 ## Installation
